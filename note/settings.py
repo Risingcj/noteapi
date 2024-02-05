@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-izp1*!edsll^hx19@9uobcgnnmorq!7#sos_i)ht5py+cfwh@y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['note-ygur.onrender.com']
 
 
 # Application definition
